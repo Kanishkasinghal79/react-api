@@ -1,0 +1,36 @@
+[
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true
+  },
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true
+  },
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true
+  },
+  {
+    "name":"iphone12",
+    "price":160,
+    "featured":true
+  },
+  {
+    "name":"iphone15",
+    "price":164,
+    "featured":true
+  },
+  {
+    "name":"samsung",
+    "price":152,
+    "featured":true
+  },
+  {
+    "name":"watch",
+    "price":15
+  }
+]
