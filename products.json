@@ -1,9 +1,38 @@
 [
   {
     "id": 1,
-    "title": "Web development"
+    "title": "Web Development",
+    "image": "https://i.postimg.cc/d1rSHwDP/The-best-in-class-website-Development-Company-in-Delhi-NCR.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
   },
   {
-
+    "id": 2,
+    "title": "App Development",
+    "image": "https://i.postimg.cc/Wzfr0Jj2/Cost-Of-Developing-A-Mobile-App-in-USA-Code-Brew-Labs.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
+  },
+  {
+    "id": 3,
+    "title": "Software Development",
+    "image": "https://i.postimg.cc/wvwsds1h/Software-Development.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing",
+    "image": "https://i.postimg.cc/brKrz0p2/Digital-Marketing-Strategy.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
+  },
+  {
+    "id": 5,
+    "title": "Graphic Designer",
+    "image": "https://i.postimg.cc/PqxCQ53J/How-to-Cope-with-Three-of-the-Most-Tedious-Big-Data-Obstacles.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
+  },
+  {
+    "id": 6,
+    "title": "Scope",
+    "image": "https://i.postimg.cc/7Z13WhnN/scope.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus natus corrupti inventore aperiam minima modi deserunt neque, esse nobis quibusdam illum laudantium similique, nesciunt culpa doloribus facere sed quo alias."
   }
 ]
